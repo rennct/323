@@ -26,6 +26,7 @@ button
 {
     border-radius:0 5vw 5vw 0;
     background-color: #9933FF;
+    color: #fff;
 }
 #chats
 {
@@ -34,7 +35,7 @@ button
 #chats dt
 {
     margin: 2vw 0;
-    border:1px solid #333;
+    border:1px solid #9933FF;
     border-radius:3vw;
     padding:1vw 3vw;
     display: inline-block;
@@ -42,10 +43,9 @@ button
 #chats dd
 {
     margin-left: 8vw;
-    border:1px solid #333;
+    border:1px solid #9933FF;
     position: relative;
     background-color:#fff;
-    box-shadow: 15px 15px 0px 0px #9966FF(60, 194, 235);
     border-radius:3vw;
     padding:1vw 3vw;
 }
