@@ -46,6 +46,7 @@ button
     position: relative;
     background-color:#fff;
     box-shadow: 15px 15px 0px 0px #9966FF(60, 194, 235);
+    border-radius:3vw;
     padding:1vw 3vw;
 }
 #chats dd::before
