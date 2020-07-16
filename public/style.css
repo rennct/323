@@ -56,9 +56,9 @@ button
     position: absolute;
     top: 50%;
     left: -6vw;
-    margin-top: -9vw;
+    margin-top: -8vw;
     border: 3vw solid transparent;
-    border-right: 6vw solid #87ceed;
+    border-right: 9vw solid #87ceed;
     transform: rotate(40deg);
     z-index: -1;
 }
