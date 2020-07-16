@@ -34,7 +34,7 @@ button
 }
 #chats dt
 {
-    margin: 2vw 0;
+    margin: 3vw 0;
     border:1px solid #87cefa;
     border-radius:6vw;
     padding:1vw 5vw;
@@ -42,7 +42,7 @@ button
 }
 #chats dd
 {
-    margin-left: 8vw;
+    margin-left: 20vw;
     border:1px solid #87cefa;
     position: relative;
     background-color:#ffffff;
@@ -58,7 +58,7 @@ button
     left: -6vw;
     margin-top: -9vw;
     border: 3vw solid transparent;
-    border-right: 8vw solid #87ceed;
+    border-right: 6vw solid #87ceed;
     transform: rotate(40deg);
     z-index: -1;
 }
